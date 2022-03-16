@@ -2,7 +2,8 @@
 
 PointXY::PointXY()
 {
-
+    X = 0.0;
+    Y = 0.0;
 }
 
 
